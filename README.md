@@ -1,4 +1,7 @@
 # Spotify Charts Data Story and Dashboard
+<p align="center">
+  <img src="https://pagarc.github.io/images/charts_dash_thumb.png?raw=true"/>
+</p>
 
 [Tableau Public Link](https://public.tableau.com/profile/patrick.garcia2131#!/vizhome/SpotifyTop200Tracks2017-2019/Story)
 
